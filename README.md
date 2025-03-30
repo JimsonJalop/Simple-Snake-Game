@@ -1,5 +1,8 @@
 //App file
 
+
+
+
 import javax.swing.*;
 
 
@@ -31,6 +34,8 @@ public class App {
 
 
 //SnakeGamee file
+
+
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
